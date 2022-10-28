@@ -6,5 +6,6 @@ public class Testt {
         System.out.println("m4");
         System.out.println("m5");
         System.out.println("m6");
+        System.out.println("s1");
     }
 }
