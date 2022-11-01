@@ -7,5 +7,6 @@ public class Testt {
         System.out.println("m5");
         System.out.println("m6");
         System.out.println("s1");
+        System.out.println("p1");
     }
 }
