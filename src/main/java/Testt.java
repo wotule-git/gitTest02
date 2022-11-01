@@ -10,5 +10,6 @@ public class Testt {
         System.out.println("p1");
         System.out.println("p2");
         System.out.println("pull 1");
+        System.out.println("pull 2");
     }
 }
